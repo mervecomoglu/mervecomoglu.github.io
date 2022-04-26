@@ -40,19 +40,6 @@
                         fotoya link eklemek ->yine a href den ekleniyor.
                     -->
     </div>
-    <table>
-        <tr>
-          <th>Month</th>
-          <th>Savings</th>
-        </tr>
-        <tr>
-          <td>January</td>
-          <td>$100</td>
-        </tr>
-        <tr>
-          <td>February</td>
-          <td>$80</td>
-        </tr>
-      </table>
+
 </body>
 </html>
